@@ -10,6 +10,7 @@ header {
     background-color: rgba(33, 33, 33, 0.5);
     box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.5);
     color: white;
+    max-width: 90%;
     width: 385px;
     height: 75px;
     padding: 2em 0em 0em 1em;
@@ -34,6 +35,7 @@ h1, h1 p {
 table {
     box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.5);
     border-collapse: collapse;
+    max-width: 90%;
     width: 400px;
     height: auto;
     margin: 0px 0px 30px 15px;
@@ -78,6 +80,7 @@ table tr td {
 #footer {
     background-color: rgba(33, 33, 33, 0.5);
     box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.5);
+    max-width: 90%;
     width: 380px;
     padding: 5px 10px 15px 10px;
     margin: 0px 0px 100px 15px;
