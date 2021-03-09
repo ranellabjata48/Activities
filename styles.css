@@ -14,7 +14,7 @@ header {
     width: 385px;
     height: 75px;
     padding: 2em 0em 0em 1em;
-    margin: 15px 0px 100px 15px;
+    margin: 15px 15px 100px 15px;
     line-height: .5;
 }
 
@@ -38,7 +38,7 @@ table {
     max-width: 400px;
     width: 400px;
     height: auto;
-    margin: 0px 0px 30px 15px;
+    margin: 0px 15px 30px 15px;
 }
 
 #trow1 {
@@ -83,7 +83,7 @@ table tr td {
     max-width: 380px;
     width: 380px;
     padding: 5px 10px 15px 10px;
-    margin: 0px 0px 100px 15px;
+    margin: 0px 15px 100px 15px;
 }
 
 #h4 {
