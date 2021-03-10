@@ -4,6 +4,8 @@ body {
     background-size: 100% 100%;
     width: auto;
     height: auto;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 header {
@@ -16,6 +18,7 @@ header {
     padding: 2em 0em 0em 1em;
     margin: 15px 15px 100px 15px;
     line-height: .5;
+    position: relative;
 }
 
 body header h1 {
@@ -39,6 +42,7 @@ table {
     width: 400px;
     height: auto;
     margin: 0px 15px 30px 15px;
+    position: relative;
 }
 
 #trow1 {
@@ -84,6 +88,7 @@ table tr td {
     width: 380px;
     padding: 5px 10px 15px 10px;
     margin: 0px 15px 100px 15px;
+    position: relative;
 }
 
 #h4 {
